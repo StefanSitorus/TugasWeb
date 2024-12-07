@@ -37,7 +37,7 @@
 				}
 		}
 		} ?>
-		>Nasi Goreng Mawut<br>
+		>Nasi Goreng Mulut Tetangga<br>
 
 		<input type="checkbox" name="makanan[]" value="rawon"
 		<?php if (isset($_POST['makanan'])) {
